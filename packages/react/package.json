@@ -4,6 +4,9 @@
   "dependencies": {
     "@newline-ds/foundation": "workspace:^"
   },
+  "scripts": {
+    "build": "tsc"
+  },
   "devDependencies": {
     "typescript": "^5.1.3"
   }
