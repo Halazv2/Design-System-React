@@ -2,6 +2,7 @@
   "name": "@newline-ds/foundation",
   "packageManager": "yarn@3.6.0",
   "devDependencies": {
+    "style-dictionary": "^3.8.0",
     "typescript": "^5.1.3"
   }
 }
